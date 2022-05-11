@@ -1,0 +1,64 @@
+/* 헤더 */
+div.hdrWrap{
+    width: 110%;
+}
+div.hdrWrap>div.header>ul.nav>li{
+    font-size: 12px;
+}
+
+/* 컨텐츠1 */
+div.cntWrap>div.content.cnt01>div.section>div.article>div.texts{
+    height: 200px;
+}
+div.cntWrap>div.content.cnt01>div.section>div.article>div.texts>p{
+    display: none;
+}
+div.cntWrap>div.content>div.section div.article>div.texts>h3{
+    font-size: 16px;
+    line-height: 30px;
+}
+div.cntWrap>div.content.cnt01>div.section>div.article>div.image{
+    height: 200px;
+}
+
+/* 컨텐츠3 */
+div.cntWrap>div.content.cnt03>div.section>div.article{
+    width: calc(100% / 2 - 20px);
+}
+div.cntWrap>div.content.cnt03>div.section>div.article>div.image{
+    height: 160px;
+}
+div.cntWrap>div.content.cnt03>div.section>div.article>div.image.i1{
+    width: 160%;
+    margin-bottom: -100px;
+}
+div.cntWrap>div.content.cnt03>div.section>div.article>div.image.i2{
+
+}
+div.cntWrap>div.content.cnt03>div.section>div.article>div.image.i3{
+    margin: 40px 0px;
+}
+div.cntWrap>div.content.cnt03>div.section>div.article>div.image.i4{
+    margin: 40px 0px;
+}
+div.cntWrap>div.content.cnt03>div.section>div.article>div.image.i5{
+    margin: 5px 0px;
+}
+div.cntWrap>div.content.cnt03>div.section>div.article>div.image.i6{
+    margin: 5px 0px;
+}
+/* 푸터 */
+div.ftrWrap{
+    width: 110%;
+    margin-top: 40px;
+}
+div.ftrWrap>div.footer>h1{
+    font-size: 18px;
+    margin-top: -50px;
+    margin-left: 50px;
+}
+div.ftrWrap>div.footer>div.sns{
+    margin-top: -10px;
+    margin-left: -140px;
+    line-height: 40px;
+}

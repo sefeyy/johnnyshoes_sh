@@ -1,0 +1,46 @@
+/* 헤더 */
+div.hdrWrap{
+    width: 110%;
+}
+div.hdrWrap>div.header>ul.nav>li{
+    font-size: 12px;
+}
+
+/* 컨텐츠 공통 */
+div.cntWrap>div.content>div.header>h2{
+    font-size: 20px;
+    margin: 40px 0px;
+}
+/* 컨텐츠1 */
+div.content.cnt01>div.section>div.artLeft>div.article>div.image{
+    height: 200px;
+}
+
+/* 컨텐츠2 */
+div.content.cnt02>div.section>div.artTop>div.article>div.texts{
+    display: none;
+}
+div.content.cnt02>div.section>div.artBtm>div.article>div.texts{
+    display: none;
+}
+/* 컨텐츠3 */
+div.content.cnt03>div.section>div.article>div.image.i3{
+    margin-left: -10px;
+    margin-top: 40px;
+}
+
+/* 푸터 */
+div.ftrWrap{
+    width: 110%;
+    margin-top: 40px;
+}
+div.ftrWrap>div.footer>h1{
+    font-size: 18px;
+    margin-top: -50px;
+    margin-left: 50px;
+}
+div.ftrWrap>div.footer>div.sns{
+    margin-top: -10px;
+    margin-left: -140px;
+    line-height: 40px;
+}

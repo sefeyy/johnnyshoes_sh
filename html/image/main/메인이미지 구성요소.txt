@@ -1,0 +1,25 @@
+http://www.johnnyshoes.co.kr/
+
+컨텐츠1 - 추천 신발상품 소개
+1. http://www.johnnyshoes.co.kr/product/detail.html?product_no=6703&cate_no=1&display_group=2
+2. http://www.johnnyshoes.co.kr/product/detail.html?product_no=7078&cate_no=1&display_group=3
+3. http://www.johnnyshoes.co.kr/product/detail.html?product_no=7013&cate_no=1&display_group=7
+
+컨텐츠2 - 쟈니 스타일 (베스트 신발상품 소개)
+1. http://www.johnnyshoes.co.kr/product/detail.html?product_no=7056&cate_no=1&display_group=2
+2. http://www.johnnyshoes.co.kr/product/detail.html?product_no=7030&cate_no=1&display_group=2
+3. http://www.johnnyshoes.co.kr/product/detail.html?product_no=6765&cate_no=1&display_group=2
+4. http://www.johnnyshoes.co.kr/product/detail.html?product_no=6612&cate_no=1&display_group=2
+
+컨텐츠3 - 신발브랜드소개 [클릭버튼]
+1. nike - http://www.johnnyshoes.co.kr/product/list_nike.html?cate_no=7
+2. adidas - http://www.johnnyshoes.co.kr/product/list_adidas.html?cate_no=4
+3. new balance - http://www.johnnyshoes.co.kr/product/list_newbal.html?cate_no=31
+4. reebok - http://www.johnnyshoes.co.kr/product/list_reebok.html?cate_no=46
+5. onisuka tiger - http://www.johnnyshoes.co.kr/product/list_onisuka.html?cate_no=32
+6. puma - http://www.johnnyshoes.co.kr/product/list_puma.html?cate_no=88
+
+
+▼▶◀▲
+
+

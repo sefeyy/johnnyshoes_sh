@@ -1,0 +1,120 @@
+/* 헤더 */
+div.hdrWrap>div.header{
+    line-height: 80px;
+}
+.xi-search:before{
+    display: none;
+}
+div.cntWrap>div.content>div.header>h2{
+    font-size: 35px;
+}
+div.cntWrap>div.content>div.header>p{
+    display: none;
+}
+.xi-bars:before{
+    width: 100%;
+    text-align: right;
+    position: absolute;
+}
+div.hdrWrap>div.header>ul.menu{
+    position: relative;
+}
+div.hdrWrap>div.header>ul.nav>li{
+    margin-bottom: -35px;
+}
+
+/* 컨텐츠1 */
+
+div.cntWrap>div.content>div.header>h2{
+    margin: 40px 0px;
+}
+div.cntWrap>div.content.cnt01>div.section>div.artTop>div.article>div.texts>h3{
+    font-size: 25px;
+}
+div.cntWrap>div.content.cnt01>div.section>div.artTop>div.article>div.texts>h5{
+    font-size: 18px;
+}
+div.artTop>div.article>div.texts>div.image.i3{
+    display: none;
+}
+div.cntWrap>div.content.cnt01>div.section>div.artTop>div.article>div.image.i1{
+    width: calc(100% / 8 * 4);
+    height: 200px;
+}
+div.cntWrap>div.content.cnt01>div.section>div.artTop>div.article>div.image.i2{
+    height: 200px;
+    width: calc(100% / 8 * 4);
+}
+div.cntWrap>div.content.cnt01>div.section>div.artTop>div.article>div.texts:nth-child(2){
+    text-align: right;
+}
+div.cntTop>div.article>div.texts{
+    display: none;
+}
+div.cntWrap>div.content.cnt01>div.section>div.artBtm>div.cntTop>div.article>div.image.i1{
+    display: none;
+}
+div.cntWrap>div.content.cnt01>div.section>div.artBtm>div.cntTop>div.article{
+    width: calc(100% / 2 - 20px);
+}
+div.cntWrap>div.content.cnt01>div.section>div.artBtm>div.cntTop>div.article>div.image.i2{
+    display: none;
+}
+div.cntWrap>div.content.cnt01>div.section>div.artBtm>div.cntBtm>div.article{
+    width: calc(100% / 2 - 20px);
+    
+}
+div.cntWrap>div.content.cnt01>div.section>div.artBtm>div.cntBtm>div.article>div.image.i3{
+    margin-top: -60px;
+    opacity: 50%;
+}
+div.cntWrap>div.content.cnt01>div.section>div.artBtm>div.cntBtm>div.article>div.image.i4{
+    margin-top: -60px;
+}
+
+div.cntWrap>div.content.cnt01>div.section>div.artBtm>div.cntTop>div.article>div.image.i3{
+    opacity: 50%;
+}
+div.cntWrap>div.content.cnt01>div.section>div.artBtm>div.cntBtm>div.article>div.image.i2{
+    opacity: 50%;
+}
+div.cntWrap>div.content.cnt01>div.section>div.artBtm>div.cntBtm>div.article>div.image.i2{
+    opacity: 50%;
+}
+/* 컨텐츠2 */
+div.cntWrap>div.content.cnt02>div.section>div.article>div.texts>p{
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.section>div.article>div.texts>h4{
+    display: none;
+}
+div.cntWrap>div.content.cnt02>div.section>div.article>div.texts{
+    padding: 40px 0px;
+}
+
+/* 컨텐츠3 */
+div.cntWrap>div.content.cnt03>div.section>div.artGroup{
+    flex-wrap: wrap;
+}
+div.cntWrap>div.content.cnt03>div.section>div.artGroup>div.article{
+    width: calc(100% / 8 * 4 - 20px);
+}
+/* 푸터 */
+div.ftrWrap>div.footer>ul{
+    display: none;
+}
+div.ftrWrap>div.footer>h1{
+    width: 100%;
+   text-align: center;
+   margin-left: 200px;
+}
+div.ftrWrap>div.footer>div.sns{
+    width: 100%;
+    margin-top: 80px;
+    margin-left: -250px;
+    line-height: 40px;
+}
+div.cntWrap>div.content.cnt03>div.section>div.artGroup>div.article>div.texts>h3{
+    line-height: 40px;
+    text-align: left;
+}

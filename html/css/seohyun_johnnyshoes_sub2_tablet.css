@@ -1,0 +1,104 @@
+/* 헤더 */
+div.hdrWrap>div.header{
+    line-height: 80px;
+}
+.xi-search:before{
+    display: none;
+}
+div.cntWrap>div.content>div.header>h2{
+    font-size: 35px;
+}
+div.cntWrap>div.content>div.header>p{
+    display: none;
+}
+.xi-bars:before{
+    width: 100%;
+    text-align: right;
+    position: absolute;
+}
+div.hdrWrap>div.header>ul.menu{
+    position: relative;
+}
+div.hdrWrap>div.header>ul.nav>li{
+    margin-bottom: -35px;
+}
+
+/* 컨텐츠2 */
+div.content.cnt02>div.section>div.artTop>div.article.artTxt>div.texts>p{
+    display: none;
+}
+div.content.cnt02>div.section>div.artBtm>div.article.artTxt>div.texts>p{
+    display: none;
+}
+div.content.cnt02>div.section>div.artTop>div.article>div.image.i2{
+    display: none;
+}
+div.content.cnt02>div.section>div.artBtm>div.article>div.image.i3{
+    display: none;
+}
+div.content.cnt02>div.section>div.artTop>div.article.artTxt>div.image.i1{
+    width: 300%;
+    height: 240px;
+    margin: auto;
+}
+div.content.cnt02>div.section>div.artTop>div.article.artTxt>div.image.i4{
+    height: 240px;
+    margin: 0 auto;
+}
+div.content.cnt02>div.section>div.artTop>div.article.artTxt>div.texts>h3{
+    margin-top: 400px;
+    display: none;
+}
+div.content.cnt02>div.section>div.artBtm>div.article.artTxt>div.texts>h3{
+    display: none;
+}
+div.content.cnt02>div.section>div.artBtm>div.article{
+    width: 150%;
+    margin-left: -350px;
+}
+
+/* 컨텐츠3 */
+div.cntWrap>div.content.cnt03>div.section>div.artLeft>div.article>div.texts{
+    display: none;
+}
+div.cntWrap>div.content.cnt03>div.section{
+    display: block;
+}
+div.cntWrap>div.content.cnt03>div.section>div.artLeft{
+    width: 100%;
+}
+div.cntWrap>div.content.cnt03>div.section>div.artLeft>div.article>div.image{
+    height: 250px;
+}
+div.cntWrap>div.content.cnt03>div.section>div.artRight{
+    width: 100%;
+}
+div.cntWrap>div.content.cnt03>div.section>div.artRight>div.article{
+    /* width: calc(100% / 2 - 20px); */
+}
+div.cntWrap>div.content.cnt03>div.section>div.artRight>div.article>div.image{
+    height: 250px;
+    width: calc(50% - 20px);
+    margin-top: 10px;
+    opacity: 50%;
+}
+
+/* 푸터 */
+div.ftrWrap>div.footer>ul{
+    display: none;
+}
+div.ftrWrap>div.footer>h1{
+    width: 100%;
+   text-align: center;
+   margin-left: 200px;
+}
+div.ftrWrap>div.footer>div.sns{
+    width: 100%;
+    margin-top: 80px;
+    margin-left: -250px;
+    line-height: 40px;
+}
+div.cntWrap>div.content.cnt03>div.section>div.artGroup>div.article>div.texts>h3{
+    line-height: 40px;
+    text-align: left;
+}
