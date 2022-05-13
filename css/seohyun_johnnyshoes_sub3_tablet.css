@@ -1,6 +1,8 @@
 /* 헤더 */
 div.hdrWrap>div.header{
     line-height: 80px;
+    width: 90%;
+    max-width: 700px;
 }
 .xi-search:before{
     display: none;
@@ -24,6 +26,11 @@ div.hdrWrap>div.header>ul.nav>li{
 }
 
 /* 컨텐츠1 */
+
+div.cntWrap>div.content{
+    width: 90%;
+    max-width: 700px;
+}
 
 div.content.cnt01>div.section{
     display: block;
@@ -106,6 +113,10 @@ div.content.cnt03>div.section>div.article:nth-child(3){
 }
 
 /* 푸터 */
+div.ftrWrap>div.footer{
+    width: 90%;
+    max-width: 700px;
+}
 div.ftrWrap>div.footer>ul{
     display: none;
 }

@@ -61,6 +61,13 @@ div.cntWrap>div.content.cnt03>div.section>div.artGroup>div.article>div.image.i3{
 div.cntWrap>div.content.cnt03>div.section>div.artGroup>div.article>div.image.i4{
     display: none;
 }
+div.cntWrap>div.content.cnt03>div.section>div.artGroup>div.article>div.image.i1{
+    
+}
+div.cntWrap>div.content.cnt03>div.section>div.artGroup>div.article>div.image.i2{
+    margin-left: -60px;
+}
+
 
 /* 푸터 */
 div.ftrWrap{
