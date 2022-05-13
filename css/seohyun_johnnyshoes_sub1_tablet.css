@@ -97,7 +97,36 @@ div.cntWrap>div.content.cnt03>div.section>div.artGroup{
     flex-wrap: wrap;
 }
 div.cntWrap>div.content.cnt03>div.section>div.artGroup>div.article{
-    width: calc(100% / 8 * 4 - 20px);
+    width: calc(100% / 2 - 20px);
+}
+
+div.cntWrap>div.content.cnt03>div.section>div.artGroup>div.article>div.image.i1{
+    width: 60%;
+}
+div.cntWrap>div.content.cnt03>div.section>div.artGroup>div.article>div.image.i2{
+    width: 60%;
+    margin-left: -150px;
+}
+div.cntWrap>div.content.cnt03>div.section>div.artGroup>div.article>div.image.i3{
+    width: 60%;
+    margin-top: 20px;
+}
+div.cntWrap>div.content.cnt03>div.section>div.artGroup>div.article>div.image.i4{
+    width: 60%;
+    margin-left: -150px;
+    margin-top: 20px;
+}
+div.cntWrap>div.content.cnt03>div.section>div.artGroup>div.article>div.image.i5{
+    display: none;
+}
+div.cntWrap>div.content.cnt03>div.section>div.artGroup>div.article>div.image.i6{
+    display: none;
+}
+button{
+    display: none;
+}
+div.cntWrap>div.content.cnt03>div.section>div.artGroup>div.article>div.texts>h3{
+    display: none;
 }
 /* 푸터 */
 div.ftrWrap>div.footer>ul{
